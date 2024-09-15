@@ -1,0 +1,2 @@
+# konfig
+Practice for university
