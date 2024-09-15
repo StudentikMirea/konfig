@@ -1,2 +1,0 @@
-localhost:~# #!/bin/bash
-localhost:~# grep -o "^[a-zA-Z_-]*" /etc/passwd | sort
