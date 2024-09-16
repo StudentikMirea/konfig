@@ -3,7 +3,6 @@ import hashlib
 import sys
 
 def calculate_hash(file_path):
-    """Вычисляет MD5 хеш-сумму файла."""
     hash_md5 = hashlib.md5()
     with open(file_path, "rb") as f:
         for chunk in iter(lambda: f.read(4096), b""):
@@ -11,7 +10,6 @@ def calculate_hash(file_path):
     return hash_md5.hexdigest()
 
 def find_duplicates(root_path):
-    """Находит файлы-дубликаты в заданном каталоге и подкаталогах."""
     file_hashes = {}
     duplicates = []
 
