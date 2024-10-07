@@ -1,0 +1,46 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}
+{
+  "command": "ls",
+  "timestamp": "2024-10-06T22:54:53.454411300"
+}
+{
+  "command": "cd",
+  "timestamp": "2024-10-06T22:55:10.217631"
+}
+{
+  "command": "tac",
+  "timestamp": "2024-10-06T22:55:14.433197200"
+}
+{
+  "command": "ls",
+  "timestamp": "2024-10-06T22:55:16.869624500"
+}
+{
+  "command": "testCd",
+  "timestamp": "2024-10-06T22:58:26.911556800"
+}
+{
+  "command": "setUp",
+  "timestamp": "2024-10-06T22:58:34.877119600"
+}
+{
+  "command": "cd dir1",
+  "timestamp": "2024-10-06T22:58:40.997221400"
+}
+{
+  "command": "setUp vfs.zip",
+  "timestamp": "2024-10-06T22:59:09.746316300"
+}
+{
+  "command": "cd dir1/",
+  "timestamp": "2024-10-06T22:59:19.614105"
+}
+{
+  "command": "cd ..",
+  "timestamp": "2024-10-06T22:59:33.709037300"
+}
