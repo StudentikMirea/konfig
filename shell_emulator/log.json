@@ -1,0 +1,68 @@
+{"timestamp": "2024-12-23T13:49:42.193585", "action": "ls"}
+{"timestamp": "2024-12-23T13:49:52.631959", "action": "cd dir1"}
+{"timestamp": "2024-12-23T13:49:54.823394", "action": "ls"}
+{"timestamp": "2024-12-23T13:50:05.705585", "action": "cd .."}
+{"timestamp": "2024-12-23T13:50:11.802654", "action": "uname"}
+{"timestamp": "2024-12-23T13:50:20.772593", "action": "tac file1.txt"}
+{"timestamp": "2024-12-23T13:54:56.137441", "action": "ls"}
+{"timestamp": "2024-12-23T13:55:01.254563", "action": "cd dir1"}
+{"timestamp": "2024-12-23T13:55:11.281044", "action": "cd .."}
+{"timestamp": "2024-12-23T13:55:13.809465", "action": "uname"}
+{"timestamp": "2024-12-23T13:55:20.121151", "action": "tac file1.txt"}
+{"timestamp": "2024-12-23T13:55:27.809370", "action": "tac file1"}
+{"timestamp": "2024-12-23T13:55:51.091701", "action": "tac file1.txt.txt"}
+{"timestamp": "2024-12-23T13:56:00.554695", "action": "history"}
+{"timestamp": "2024-12-23T13:56:13.815840", "action": "asdsf"}
+{"timestamp": "2024-12-23T13:56:17.775269", "action": "cd fhdjdhs"}
+{"timestamp": "2024-12-23T13:56:19.283773", "action": "1wdas"}
+{"timestamp": "2024-12-23T13:56:21.504565", "action": "ls ls"}
+{"timestamp": "2024-12-23T13:56:24.228059", "action": "ls cd"}
+{"timestamp": "2024-12-23T13:56:28.322045", "action": "cd dir1"}
+{"timestamp": "2024-12-23T13:56:32.642581", "action": "cd dir1 ls"}
+{"timestamp": "2024-12-23T13:59:39.380324", "action": "ls"}
+{"timestamp": "2024-12-23T13:59:42.957771", "action": "cd dir1"}
+{"timestamp": "2024-12-23T14:00:10.296270", "action": "cd dir1/"}
+{"timestamp": "2024-12-23T14:00:29.723066", "action": "cd C:\\Users\\ASUS\\Desktop\\shell_emulator\\virtual_fs.zip.zip\\dir1"}
+{"timestamp": "2024-12-23T14:00:36.149265", "action": "cd .."}
+{"timestamp": "2024-12-23T14:00:39.013316", "action": "uname"}
+{"timestamp": "2024-12-23T14:00:45.381804", "action": "tac file1.txt.txt"}
+{"timestamp": "2024-12-23T14:00:50.255336", "action": "history"}
+{"timestamp": "2024-12-23T14:00:54.477116", "action": "exit"}
+{"timestamp": "2024-12-23T14:03:58.098219", "action": "ls"}
+{"timestamp": "2024-12-23T14:04:01.752644", "action": "cd dir1"}
+{"timestamp": "2024-12-23T14:04:06.461934", "action": "ls"}
+{"timestamp": "2024-12-23T14:04:09.439496", "action": "cd .."}
+{"timestamp": "2024-12-23T14:04:11.817757", "action": "uname"}
+{"timestamp": "2024-12-23T14:04:17.997726", "action": "tac file1.txt.txt"}
+{"timestamp": "2024-12-23T14:04:27.005615", "action": "history"}
+{"timestamp": "2024-12-23T14:04:31.032277", "action": "exit"}
+{"timestamp": "2024-12-23T14:09:57.361037", "action": "test command"}
+{"timestamp": "2024-12-23T14:12:20.233575", "action": "test command"}
+{"timestamp": "2024-12-23T14:14:20.794165", "action": "test command"}
+{"timestamp": "2024-12-23T14:15:39.475221", "action": "ls"}
+{"timestamp": "2024-12-23T14:17:49.079045", "action": "ls"}
+{"timestamp": "2024-12-23T14:18:13.281892", "action": "cd dir1"}
+{"timestamp": "2024-12-23T14:18:18.839761", "action": "ls"}
+{"timestamp": "2024-12-23T14:18:25.957063", "action": "cd .."}
+{"timestamp": "2024-12-23T14:18:28.618988", "action": "uname"}
+{"timestamp": "2024-12-23T14:18:35.916505", "action": "tac file1.txt.txt"}
+{"timestamp": "2024-12-23T14:18:43.739526", "action": "history"}
+{"timestamp": "2024-12-23T14:18:46.207925", "action": "exit"}
+{"timestamp": "2024-12-23T14:19:17.887289", "action": "test command"}
+{"timestamp": "2024-12-23T14:21:24.383783", "action": "ls"}
+{"timestamp": "2024-12-23T14:21:40.015940", "action": "cd dir1"}
+{"timestamp": "2024-12-23T14:21:43.031326", "action": "ls"}
+{"timestamp": "2024-12-23T14:21:46.061044", "action": "cd .."}
+{"timestamp": "2024-12-23T14:21:48.115371", "action": "uname"}
+{"timestamp": "2024-12-23T14:21:53.516010", "action": "tac file1.txt"}
+{"timestamp": "2024-12-23T14:21:57.115429", "action": "history"}
+{"timestamp": "2024-12-23T14:21:58.510400", "action": "exit"}
+{"timestamp": "2024-12-23T14:22:20.257021", "action": "test command"}
+{"timestamp": "2024-12-23T14:23:28.380937", "action": "test command"}
+{"timestamp": "2024-12-23T14:24:41.711841", "action": "test command"}
+{"timestamp": "2024-12-23T14:25:16.826167", "action": "test command"}
+{"timestamp": "2024-12-23T14:25:50.026645", "action": "test command"}
+{"timestamp": "2024-12-23T14:26:17.455999", "action": "test command"}
+{"timestamp": "2024-12-23T14:27:42.922930", "action": "test command"}
+{"timestamp": "2024-12-23T14:29:17.537141", "action": "test command"}
+{"timestamp": "2024-12-23T14:30:03.955735", "action": "test command"}
