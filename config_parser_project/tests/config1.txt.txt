@@ -1,0 +1,4 @@
+REM Конфигурация веб-сервера
+const port = 8080
+const max_connections = 1000
+(list 127.0.0.1 !{port} !{max_connections})
