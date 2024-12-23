@@ -1,5 +1,0 @@
-REM Конфигурация сетевого маршрутизатора
-const ip_address = 192.168.1.1
-const subnet_mask = 255.255.255.0
-const gateway = 192.168.1.254
-(list !{ip_address} !{subnet_mask} !{gateway})
